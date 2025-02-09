@@ -12,8 +12,8 @@
 | Feature         | Description |
 |----------------|-------------|
 | **Connector 1** | Micro USB (power & data) |
-| **Connector 2** | JST-SH (small form factor) |
-| **Connector 3** | JST-PH (higher current capacity) |
+| **Connector 2** | JST-PH (higher current capacity) |
+| **Connector 3** | JST-SH (small form factor) |
 | **PCB Design**  | Open-source & customizable |
 | **Use Cases**   | Power distribution, sensor connections, embedded systems |
 
