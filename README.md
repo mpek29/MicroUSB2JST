@@ -18,9 +18,9 @@
 | **Use Cases**   | Power distribution, sensor connections, embedded systems |
 
 ## PCB Design Preview
-| Schematic | PCB Layout |
-|-----------|-----------|
-| ![Schematic](images/schematic.png) | ![PCB Layout](images/pcb_layout.png) |
+| Schematic | PCB Layout | PCB Layout |
+|-----------|-----------|-----------|
+| ![Schematic](images/schematic.png) | ![PCB Layout](images/pcb_layout.png) | ![3D](images/3d.png) |
 
 ## License
 This project is open-source. Feel free to use, modify, and contribute!
