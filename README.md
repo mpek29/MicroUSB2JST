@@ -21,7 +21,7 @@
 ## PCB Design Preview
 | Schematic | PCB Layout | 3D |
 |-----------|-----------|-----------|
-| ![Schematic](images/schematic.png) | ![PCB Layout](images/pcb_layout.png) | ![3D](images/3d.png) |
+| ![Schematic](assets/img/schematic.png) | ![PCB Layout](assets/img/pcb_layout.png) | ![3D](assets/img/3d.png) |
 
 ## License
 This project is open-source. Feel free to use, modify, and contribute!
