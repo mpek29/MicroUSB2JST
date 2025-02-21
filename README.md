@@ -22,7 +22,7 @@
 ## 📐 PCB Design Preview
 | 📜 Schematic | 🖥️ PCB Layout | 🏗️ 3D |
 |-----------|-----------|-----------|
-| ![Schematic](assets/img/schematic.png) | ![PCB Layout](assets/img/pcb_layout.png) | ![3D](assets/img/3d.png) |
+| <img src="assets/img/schematic.png" width="300" height="300"> | <img src="assets/img/pcb_layout" width="300" height="300"> | <img src="assets/img/3d" width="300" height="300"> |
 
 ## 🌟 License
 This project is open-source. Feel free to use, modify, and contribute! 🚀
