@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "9a9ee09e-6dcc-4463-9188-ad33864e9b49")
 	(paper "A4")
 	(title_block
@@ -249,6 +249,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "SM04B-SRSS-TB_LF__SN_:SM04B-SRSS-TB_LF__SN_"
 			(pin_names
@@ -524,6 +525,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "UJ2-MIBH-G-SMT-TR:UJ2-MIBH-G-SMT-TR"
 			(pin_names
@@ -873,12 +875,17 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "power:GND"
 			(power)
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0) hide)
+				(offset 0)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -969,12 +976,17 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "power:VCC"
 			(power)
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0) hide)
+				(offset 0)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1046,7 +1058,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 2.54)
+						(xy 0 2.54) (xy 0.762 1.27)
 					)
 					(stroke
 						(width 0)
@@ -1058,7 +1070,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
+						(xy 0 0) (xy 0 2.54)
 					)
 					(stroke
 						(width 0)
@@ -1089,6 +1101,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 	)
 	(junction
@@ -2337,4 +2350,5 @@
 			(page "1")
 		)
 	)
+	(embedded_fonts no)
 )
